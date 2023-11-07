@@ -43,7 +43,7 @@ The `logger.tsx` file provides the implementation for logging methods such as `i
 
 ## Usage in a Component
 
-Here is an example of how to use the logging context in a component called `FooterLinks`.
+Here is an example of how to use the logging context in a component called `YourComponentName`.
 
 ```typescript
 import React, { useEffect } from 'react';
